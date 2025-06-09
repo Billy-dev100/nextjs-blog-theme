@@ -31,13 +31,13 @@
     "next-mdx-remote": "^5.0.0",
     "next-remote-watch": "2.0.0",
     "prismjs": "^1.29.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "rehype-unwrap-images": "^1.0.0",
     "remark-gfm": "^4.0.0"
   },
   "devDependencies": {
-    "@stackbit/cms-git": "^0.0.14",
+    "@stackbit/cms-git": "^1.0.35",
     "@stackbit/types": "^2.0.1",
     "@tailwindcss/postcss": "^4.0.16",
     "eslint": "^8.57.0",
